@@ -33,3 +33,19 @@ padding-bottom: 0px;
 margin-bottom: 20px;
 padding-top: 0px;
 }
+
+@media (max-width: 767px) {
+    body{
+        background-color: rgb(167, 167, 167);
+    }
+  }
+  @media (min-width: 768px) {
+    body{
+        background-color: rgb(196, 196, 196);
+    }
+  }
+  @media (min-width: 1024px) {
+    body{
+        background-color: rgb(252, 252, 252);
+    }
+  }
